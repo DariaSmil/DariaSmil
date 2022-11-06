@@ -1,4 +1,4 @@
-![Header](https://github.com/DariaSmil/DariaSmil/blob/main/assets/photo_2022-11-05_20-27-18.jpg)
+![Header](https://github.com/DariaSmil/DariaSmil/blob/main/assets/R%20(1).jpeg)
 
 ### I'm a junior manual QA Engineer
 
@@ -17,10 +17,10 @@
 ![DEVTOOLS](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=ChromeDevToolslogoColor=122FAA)
 
 ### Testing documentation
-- [![Checklists](https://github.com/DariaSmil/Checklists)]
-- [![Test-Cases](https://github.com/DariaSmil/Test-cases/blob/main/Test%20cases.csv)]
-- [![Bug-reports](https://github.com/DariaSmil/Bug-reports/blob/main/Bug%20repots.csv)]
-- [![Autotest](https://github.com/DariaSmil/QA/blob/master/Autotest)]
+- [Checklists](https://github.com/DariaSmil/Checklists)
+- [Test-Cases](https://github.com/DariaSmil/Test-cases/blob/main/Test%20cases.csv)
+- [Bug-reports](https://github.com/DariaSmil/Bug-reports/blob/main/Bug%20repots.csv)
+- [Autotest](https://github.com/DariaSmil/QA/blob/master/Autotest)
 
 
 ## Follow me 
