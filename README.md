@@ -3,7 +3,7 @@
 ### I'm a junior manual QA Engineer
 
 ### My CV
-[Link to my CV](https://drive.google.com/drive/my-drive)
+[Link to my CV](https://drive.google.com/file/d/1GgngKXdvuIDDmAasntjnY00hRb7Nalc3/view?usp=sharing)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1F75FE)
@@ -12,7 +12,7 @@
 ![CHARLESPROXY](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=CHARLESPROXY&logoColor=40E0D0)
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=50C878)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=F69706)
-![JMETER](https://img.shields.io/badge/-Jmeter-090909?style=for-the-badge&logo=Jmeter&logoColor=A31442)
+![JMETER](https://img.shields.io/badge/-Jmeter-090909?style=for-the-badge&logo=ApacheJmeter&logoColor=A31442)
 ![MYSQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=146AA3)
 ![DEVTOOLS](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=ChromeDevToolslogoColor=122FAA)
 
