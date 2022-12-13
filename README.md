@@ -3,7 +3,7 @@
 ### I'm a junior manual QA Engineer
 
 ### My CV
-[Link to my CV](https://drive.google.com/file/d/1GgngKXdvuIDDmAasntjnY00hRb7Nalc3/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1O1fgZQbao6QosXjKdgx0fqsk4rqEdMWa/view?usp=sharing)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1F75FE)
